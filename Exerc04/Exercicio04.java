@@ -8,10 +8,10 @@ public class Exercicio04 {
 
         Conversao objConversao = new Conversao();
 
-        System.out.println("Digite a cotação do dólar: ");
+        System.out.printf("Digite a cotação do dólar: ");
         objConversao.cotacaoDolar = leitor.nextFloat();
 
-        System.out.println("Digite a quantidade de dólares que você tem disponível: ");
+        System.out.printf("Digite a quantidade de dólares que você tem disponível: ");
         objConversao.dolarDisp = leitor.nextFloat();
 
         System.out.println("<-------------------->");
