@@ -1,8 +1,8 @@
 package Exerci14;
 
 public class Lucro {
-    float[] precoCusto = new float[5];
-    float[] precoVenda = new float[5];
+    float[] precoCusto = new float[40];
+    float[] precoVenda = new float[40];
     String resultado = "";
     float lucroTotal = 0;
     float custoTotal = 0;
