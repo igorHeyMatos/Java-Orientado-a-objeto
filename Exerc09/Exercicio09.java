@@ -9,7 +9,7 @@ public class Exercicio09 {
 
         Intervalo objIntervalo = new Intervalo();
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 80; i++) {
             System.out.println("Digite um número: ");
             objIntervalo.numero[i] = leitor.nextInt();
         }

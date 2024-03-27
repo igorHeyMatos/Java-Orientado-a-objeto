@@ -15,6 +15,6 @@ public class Programa {
         // Exerci13.Exercicio13.executar();
         // Exerci14.Exercicio14.executar();
         //Exerci15.Exercicio15.executar();
-        Exerci16.Exercicio16.executar();
+        //Exerci16.Exercicio16.executar();
     }
 }
