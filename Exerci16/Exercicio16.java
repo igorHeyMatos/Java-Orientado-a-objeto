@@ -8,7 +8,7 @@ public class Exercicio16 {
 
         Empresa objEmpresa = new Empresa();
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 584; i++) {
             System.out.println("Digite o salário do funcionário: ");
             objEmpresa.salarioFunc[i] = leitor.nextFloat();
             System.out.println("Reajuste: + " + objEmpresa.reajuste(i));

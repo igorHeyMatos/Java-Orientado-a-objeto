@@ -1,9 +1,9 @@
 package Exerci16;
 
 public class Empresa {
-    float salarioFunc[] = new float[5];
-    float salarioFinal[] = new float[5];
-    float reajusteReal[] = new float[5];
+    float salarioFunc[] = new float[584];
+    float salarioFinal[] = new float[584];
+    float reajusteReal[] = new float[584];
 
     float reajuste(int i) {
         if (salarioFunc[i] <= 4050) {
