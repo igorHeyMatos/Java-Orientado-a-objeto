@@ -14,7 +14,7 @@ public class Programa {
         // Exerci12.Exercicio12.executar();
         // Exerci13.Exercicio13.executar();
         // Exerci14.Exercicio14.executar();
-        // Exerci15.Exercicio15.executar();
+        Exerci15.Exercicio15.executar();
         // Exerci16.Exercicio16.executar();
         // Exerci17.Exercicio17.executar();
         // Exerci18.Exercicio18.executar();
@@ -25,6 +25,6 @@ public class Programa {
         // Exerci23.Exercicio23.executar();
         // Exerci24.Exercicio24.executar();
         // Exerci25.Exercicio25.executar();
-        Exerci26.Exercicio26.executar();
+        // Exerci26.Exercicio26.executar();
     }
 }
